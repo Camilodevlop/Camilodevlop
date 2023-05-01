@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Camilodevlop
-- 👀 I’m interested in Rust/C++ and Python development
+- 👀 I’m interested in C++/Rust and Python development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects related to those languages
 - 📫 How to reach me cacastilloben@unal.edu.co - camiloalejandro.eng@gmail.com
