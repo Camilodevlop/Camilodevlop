@@ -8,6 +8,8 @@ I am a professional educated at the Universidad Nacional de Colombia -university
 
 Parallel to my doctorate, I participated in a project aimed at developing a system for measuring the functional capacity of the elderly. I coordinated an engineering team to design, implement and validate the devices. Another of my responsibilities was continuous communication with professionals from other areas of knowledge (health professionals, UX designers or mathematicians). As a complementary experience, I participated in the development of a mobile application for early warning of possible COVID-19 infections. I also had a short experience as a university professor of electronics and programming.
 
+Currently, I develop software for the Colombian company Inference. The main languages I use in my work are C, C++ and Python. At the same time, I also use these languages as programming tools for my own projects and courses.
+
 <!---
 Camilodevlop/Camilodevlop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
